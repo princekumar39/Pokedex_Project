@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.overall-css{
+    background-color: #d2c1c1;
+    background-size: cover;
+    min-height: 100%;
+}
